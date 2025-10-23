@@ -21,7 +21,7 @@ Plugin permettant d'avoir un Panel personnalisé pour l'ATM
 ---
 
 ## ⚙️〃 Prérequis
-- [ModKit]([https://github.com/bluo74/TS-Linker/releases/tag/v1.0.0](https://discord.com/channels/1179126151680118784/1363622429011742746/1363631242343612516))
+- [ModKit]([https://github.com/bluo74/TS-Linker/releases/tag/v1.0.0](https://discord.com/channels/1179126151680118784/1363622429011742746/1363631242343612516)
 
 ---
 
